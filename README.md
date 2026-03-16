@@ -22,6 +22,6 @@ Install dependencies
 
 npm install
 
-Run server
+## Run server
 
 node app.js
